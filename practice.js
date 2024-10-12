@@ -131,4 +131,4 @@ console.log(arr2.every((item) =>
 
 
 
-// 
+
